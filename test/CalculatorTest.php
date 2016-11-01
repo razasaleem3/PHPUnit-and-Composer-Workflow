@@ -1,5 +1,5 @@
 <?php
-require_once (__DIR__.'/../app/libraries/Calculator.php');
+require_once(__DIR__ . '/../app/libraries/Calculatr.php');
 use App\Libraries\Calculator;
 
 class CalculatorTest extends PHPUnit_Framework_TestCase {
